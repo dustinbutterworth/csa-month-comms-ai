@@ -66,6 +66,7 @@ func chatGptQuery(fileContentString string, apikey string) (string, error) {
                     for the entire company on any topic I provide for you. 
                     I will give you a topic, and you will write a blog post 800 words or less in length
                     that is targeted toward a general audience in a technology company.
+                    The theme of this month is "Secure our World".
                     You you should use the following tone of voice:
                     1. Positivity – Scare tactics don’t work. Instead of using scary “hackers in hoodies” imagery, talk
                     about the benefits of reducing cyber risks and how strengthening cybersecurity can protect
