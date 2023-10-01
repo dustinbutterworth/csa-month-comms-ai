@@ -1,0 +1,27 @@
+TURN ON MULTIFACTOR
+AUTHENTICATION
+In a recent National Cybersecurity Alliance survey, 57% of respondents said they have heard of
+multifactor authentication (MFA), but many people don’t realize that multifactor authentication is an
+incredibly important layer of protection in keeping accounts secure. This month, we’re showing others
+how easy it is to turn on MFA whenever possible.
+OUR TIPS AND ADVICE
+MFA provides extra security by providing a secondary method confirming your identity when logging
+into accounts. MFA usually requires you to enter a code sent to your phone or email, or one generated
+by an authenticator app. Push notifications are also common methods of MFA. This added step
+prevents unauthorized users from gaining access to your accounts, even if your password has been
+compromised.
+Open your app or account settings
+It may be called Account Settings, Settings & Privacy or similar.
+Turn on multifactor authentication
+It may also be called two-factor authentication, two-step authentication or similar.
+Confirm
+Select an MFA method to use from the options provided. Examples are:
+Receiving a code by text or email
+Using an authenticator app: These phone-based apps generate a new code every 30
+seconds or so.
+Biometrics: This uses facial recognition or fingerprints to confirm your identity.
+FOLLOW THESE STEPS TO TURN ON MFA
+ADDITIONAL FACTS AND FIGURES
+Of those who have heard of MFA, 79% had applied it to their online accounts. (NCA)
+Of that number, 94% said they are still using MFA, showing that once MFA is enabled, users will
+keep using it. (NCA)
